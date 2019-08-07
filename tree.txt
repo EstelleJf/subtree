@@ -9,3 +9,6 @@ this is a demo
 to study subtree
 and push to remote
 
+subtree to change it 
+to study parent get new commit contain
+
